@@ -1,4 +1,4 @@
-📌 SQL Practice & Database Tasks
+# SQL Practice & Database Tasks
 
 
 
